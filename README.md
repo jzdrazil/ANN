@@ -1,4 +1,5 @@
-# ANN
+# ANN/machine learning
+
 basic algorithms of neural networks (from scratch)
 Perceptron
 Backpropagastion 2+1
